@@ -30,7 +30,7 @@
       <!-- Collection begin -->
       {% assign sections = site.sections | sort: 'order' %}
       {% for section in sections %}
-        <a class="sidebar-nav-item" href="{{ site.baseurl }}/#{{ section.anchor }}">{{ section.title }}</a>
+        <a class="sidebar-nav-item" href="#{{ section.anchor }}">{{ section.anchor }}</a>
       {% endfor %}
 
     </nav>

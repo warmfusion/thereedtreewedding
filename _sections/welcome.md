@@ -1,5 +1,6 @@
 ---
 layout: section
+anchor: welcome
 order: 1
 ---
 

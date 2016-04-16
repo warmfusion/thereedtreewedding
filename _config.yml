@@ -2,35 +2,39 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              http://thereedtreewedding.co.uk
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /hydejack
+baseurl:          ""
 
-title:            Hydejack
+title:            The Reed Tree Wedding
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [@qwtel](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  Find all the information you need about the Reed Tree wedding here.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /hydejack/public/img/nap.jpg
+image:            /public/img/title.jpg
 color:            '#A85641'
 
 author:
-  name:           'Florian Klampfer'
-  twitter:        qwtel
-  github:         qwtel
-  photo:          http://qwtel.com/public/img/flo.jpg
+  name:           'Toby Jackson'
+#  twitter:        warmfusion
+#  github:         warmfusion
+  photo:          /public/img/toby.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+    Hi, I'm Toby or [`@warmfusion`](https://www.twitter.com/warmfusion), and I
+    helped make this website for Caroline and Rob's big day!
 
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+    If you're interested in knowing more, check out [my website](http://warmfusion.co.uk).
+
+
+
+collections:
+  sections:
+    output: false

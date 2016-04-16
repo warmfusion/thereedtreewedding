@@ -249,8 +249,8 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    2rem;
+  padding-bottom: 2rem;
 
   /*
    * Ensure same content width when JS drawer is disabled.
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 20rem;
     margin-right: 4rem;
   }
 }

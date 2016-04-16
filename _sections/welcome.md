@@ -6,6 +6,8 @@ order: 1
 
 # The Reed Tree Wedding
 
+![The Couple](public/img/welcome.jpg)
+
 We are Rob and Caroline.  If you're invited to our wedding, you should already know who we are.  We met in 2005, started living together in 2007, and in 2009 realised that we really quite liked each other and started going out.
 
 During that time, we've realised that we really like cooking together (tapas and curry are particular favourites), watching TV, singing in the kitchen and filling the house full of friends, family and food (and wine).

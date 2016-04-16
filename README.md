@@ -31,3 +31,12 @@ need to update all the page orders for pages that come after the new section.
 This website uses a formatting technique called Markdown.
 
 You can find an introduction into how this works at [markdowntutorial.com](http://www.markdowntutorial.com/)
+
+
+# References
+
+* Core Theme - [hydejack](http://qwtel.com/hydejack/)
+* Secret Code
+    * Amazing Tardis - http://codepen.io/joshnetherton/pen/maDxd
+    * Cheet - http://lou.wtf/cheet.js/
+    * Sound effect - http://www.moviesoundclips.net/sound.php?id=85

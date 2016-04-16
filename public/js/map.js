@@ -1,13 +1,13 @@
 $(document).ready(function (){
 
   // create a churchLatLong object containing the coordinate for the center of the map
-  var churchLatLong = new google.maps.churchLatLong(55.053203, 11.601563);
-  var qeLatLong = new google.maps.churchLatLong(60.780619, 5.888672);
-
+  var churchLatLong = new google.maps.LatLng(53.659539, -1.482265);
+  var qeLatLong = new google.maps.LatLng(53.688953, -1.502317);
+  var centerLatLong = new google.maps.LatLng(53.683298, -1.505924);
   // prepare the map properties
   var options = {
-    zoom: 11,
-    center: churchLatLong,
+    zoom: 12,
+    center: centerLatLong,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     navigationControl: true,
     mapTypeControl: false,

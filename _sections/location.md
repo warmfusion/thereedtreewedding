@@ -4,7 +4,7 @@ anchor: location
 order: 3
 ---
 
-## Where too?
+## Where to?
 
 ### The Ceremony
 

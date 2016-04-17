@@ -4,7 +4,7 @@ anchor: welcome
 order: 1
 ---
 
-# The Reed Tree Wedding
+# The ReedTree Wedding
 
 ![The Couple](public/img/welcome.jpg)
 

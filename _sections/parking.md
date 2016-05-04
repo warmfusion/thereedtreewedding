@@ -3,6 +3,10 @@ layout: section
 anchor: Parking
 order: 4
 ---
+
+# Parking
+
+
 For those of you bringing cars to some or all of the day, here is some information about parking.
 At St. Helen's, the car park is accessed through the LandRover garage next door to the church.  Drive through the forecourt, and throug hthe metal gate.  Parking is on your right.
 The car park remains open during opening hours, 9-5pm Monday to Saturday and 10-4pm on Sunday. 

@@ -14,6 +14,9 @@ We will aim to have these done as quickly as possible, which should allow time f
 At the moment, we're not clear if the bar accepts card payments (we'll update this once we find out), but if you need directions to cash points, just let us know.
 
 3.  For those who aren't familiar with Wakefield, here are the numbers of some local taxi firms:
+4.  
       Wakefield Cars: (01924) 380000
+
       ABC:            (01924) 361111
+      
       Ace Taxis:      (01924) 299999

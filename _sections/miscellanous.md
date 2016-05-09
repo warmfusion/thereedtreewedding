@@ -11,7 +11,7 @@ This section has no discernible theme, other than "things that might be useful t
 We will aim to have these done as quickly as possible, which should allow time for exploring and looking around.
 
 2.  We intend to provide some drinks, but there will also be a paying bar on site at the reception (to cater for Rob).  There will also be tea and coffee (to cater for Caroline).
-At the moment, we're not clear if the bar accepts card payments (we'll update this once we find out), but if you need directions to cash points, just let us know.
+It's worth noting that the bar only accepts cash payments.   There's cash points near the venue - the closest is in the nearby bus station which is less than 5 minutes walk (unless you are in heels, in which case all bets are off.) 
 
 3.  For those who aren't familiar with Wakefield, here are the numbers of some local taxi firms:
   
